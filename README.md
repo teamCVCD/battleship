@@ -1,2 +1,2 @@
 # battleship
-Console output version of Battleship.
+Console output version of Battleship written in Java.
