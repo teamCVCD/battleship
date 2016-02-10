@@ -1,0 +1,14 @@
+Objective: create a console/textmode Battleship clone
+
+Ideas:
+-Array to represent board (10x10 size, 1-10 for rows, A-J for columns)
+  -possibly implement different board sizes/custom
+-Allow freedom of ship size/shape, but require that all given 'tiles' be used (to prevent someone from simply putting a one-block ship and turtling)
+-New ships would be another dimension of board array, so 3-dimensional
+-potentially implement record of won games
+-AI and difficulties?
+
+Stretch Ideas:
+-GUI/ASCII art, sound effects
+-LAN play
+-different profiles?
