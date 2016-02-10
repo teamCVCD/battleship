@@ -10,6 +10,6 @@ public class battleshipMain {
 				
 			}
 		}
-	System.out.println("Hope this doesn't break anything");
+	System.out.println("Hope this DOES break everything!");
 	}
 }
